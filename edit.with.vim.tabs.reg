@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 
-[HKEY_CLASSES_ROOT\Applications\gvim.exe\shell\edit\command]
+[HKEY_CLASSES_ROOT\Applications\gvim.exe\shell\open\command]
 @="\"C:\\Program Files\\Vim\\vim72\\gvim.exe\" -p --remote-tab-silent \"%1\" \"%*\""
 [-HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\gvim]
 [HKEY_CLASSES_ROOT\*\Shell\Edit with &Vim]
