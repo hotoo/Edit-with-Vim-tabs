@@ -27,6 +27,10 @@ edit.with.vim.window.reg
 2. 保存后双击注册表文件，或右键菜单 -> 合并 即可。
 
 
+警告：
+
+
+
 参考：
 Vimfaq - Ubuntu 中文
     http://wiki.ubuntu.org.cn/index.php?title=Vimfaq&variant=zh-cn
@@ -34,3 +38,5 @@ vi/vim使用技巧: 在标签页中打开文件 (windows)
     http://easwy.com/blog/archives/vim-tips-windows-open-file-in-tab/
 如何通过使用注册项 (.reg) 文件添加、修改或删除注册表子项和值
     http://support.microsoft.com/kb/310516/zh-cn
+Context menu issues with gVim in Windows 7 x64
+    http://davidvielmetter.com/?p=1094
